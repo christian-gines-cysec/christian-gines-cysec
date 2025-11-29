@@ -1,4 +1,4 @@
-![Azcendria Astral Banner](https://raw.githubusercontent.com/christian-gines-cysec/christian-gines-cysec/main/assets/azcendria-astral-banner.png)
+![Azcendria Astral Banner](./AczendriaLOGO.png)
 
 <h1 align="center">Christian Gines</h1>
 <h3 align="center">Cybersecurity · AI Systems · Network Defense · Tech Sales Leadership</h3>
