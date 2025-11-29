@@ -1,112 +1,112 @@
-
-
-<!--
-**christian-gines-cysec/christian-gines-cysec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<!-- Optional banner: after you upload the Azcendria banner, update the src path -->
-<p align="center">
-  <img src="AZCENDRIA_BANNER_PATH.png" alt="Azcendria Astral Banner" width="800">
-</p>
+![Azcendria Astral Banner](https://raw.githubusercontent.com/christian-gines-cysec/christian-gines-cysec/main/assets/azcendria-astral-banner.png)
 
 <h1 align="center">Christian Gines</h1>
-<p align="center">
-  <strong>Cybersecurity · Network Defense · Tech Sales Leadership</strong><br>
-  Cebu City, Philippines · Open to Remote (US / UK time zones)
-</p>
+<h3 align="center">Cybersecurity · AI Systems · Network Defense · Tech Sales Leadership</h3>
+<p align="center">Cebu City, Philippines — Open to Remote (US / UK Time Zones)</p>
 
 ---
 
-### 👋 About Me
+## 👋 About Me
 
-I spent 20+ years building and protecting real-world infrastructure — leading telecom deployments, securing backbone networks, and running operations for US clients — and I’m now focused on **cybersecurity, cloud security, and AI-driven defense systems**.
+I build, secure, and scale real-world systems.
+
+For 20+ years, I’ve led high-stakes operations — from telecom infrastructure deployments to revenue leadership for U.S. clients — and today, I merge that experience with **cybersecurity**, **network defense**, and **AI-driven intelligence systems**.
 
 I combine:
-- **Security operations & incident response**
-- **Network & infrastructure security**
-- **Revenue leadership / tech sales** for US & UK markets  
 
-My goal: **turn complex networks and complex products into something secure, understandable, and easy to buy.**
+- **Security operations & incident response**  
+- **Network & infrastructure defense**  
+- **Red-team mindset with OPSEC discipline**  
+- **Tech sales & revenue leadership for U.S. markets**  
+- **AI automation for training, reconnaissance, and workforce acceleration**
 
----
-
-### 🚀 What I’m Working On
-
-#### 🛰 Azcendria Astral — Talent Engineering & Cyber Workforce Lab
-Founder of **Azcendria Astral**, a talent-engineering and workforce-acceleration initiative designing:
-- 30-day “US-ready engineer” training tracks  
-- Employer showdowns and hiring pipelines  
-- AI agents to automate training, assessment, and reporting
-
-#### 🔐 Project A.R.R.I.A. (Artificial Reconnaissance & Research Intelligence Agent)
-R&D concept for an AI-assisted security agent focused on:
-
-- Intelligent reconnaissance and asset discovery  
-- Hardware / IoT identification and risk profiling  
-- OPSEC guidance and defensive playbooks  
-- Automated reporting for analysts and defenders  
-
-> Repos coming soon: architecture notes, lab experiments, and proof-of-concept tooling.
-
-#### 🛡 Phoenix Link Shield – Secure Payment Architecture (Design)
-Designing a **multi-layer payment and donation model** for Azcendria.com using:
-- Segmented accounts (operational, escrow, donations)
-- Verified payment flows (Wise / bank rails)
-- Fraud- and phishing-resistant link patterns
-- Audit-ready activity trails for investors and partners
+My goal is simple:  
+**Turn complex technologies into systems that are secure, understandable, and easy for organizations to adopt.**
 
 ---
 
-### 🧰 Tech & Tools
+## 🚀 What I’m Building
 
-**Security / Networking**
+### 🔭 **Azcendria Astral — Talent Engineering & Cyber Workforce Lab**
 
-- Kali Linux, Wireshark, tcpdump  
-- SIEM: Splunk, Chronicle (foundational)  
-- Network security, IDS/IPS concepts, VPNs, firewalls  
-- NIST CSF, risk assessment, incident response
+Founder of **Azcendria Astral**, a hybrid R&D and talent-engineering initiative developing:
 
-**Cloud**
+- 30–90 day “US-ready engineer” training tracks  
+- Structured hiring and employer pipelines  
+- AI systems to automate training, assessment, and reporting  
+- Workforce-intelligence dashboards for recruiters and technical teams  
 
-- AWS security fundamentals (IAM, VPC, Security Groups, EC2, S3, CloudWatch)  
-
-**Languages & Automation**
-
-- Python (security automation concepts)  
-- Bash / Linux admin basics  
-
-**Sales & GTM**
-
-- B2B outbound and pipeline leadership  
-- Cold calling, email + phone + social sequences  
-- US/UK client management, long-cycle enterprise deals  
+The mission:  
+**Accelerate skill acquisition. Industrialize workforce readiness. Empower learners globally.**
 
 ---
 
-### 🌐 How I Work
+### 🧠 **Project A.R.R.I.A — Artificial Reconnaissance & Research Intelligence Agent**
 
-- **Remote-first**, comfortable on US Eastern / Pacific and UK hours  
-- Blend of **security strategist + revenue operator**  
-- Comfortable talking with engineers, C-suite, and non-technical buyers  
-- Obsessed with **clarity, reliability, and follow-through**
+A private R&D concept for a multi-agent AI security system specializing in:
+
+- Intelligent reconnaissance & asset discovery  
+- Hardware-level ID + device fingerprinting  
+- AI-assisted scanning, triage, and risk scoring  
+- OPSEC-guided workflows and adversarial playbooks  
+- Bluetooth-based bio-signal monitoring research for adaptive authentication  
+- Modular architecture for plug-in security capabilities  
+
+ARRIA is designed to evolve into a **personal cyber-defense companion**, bridging AI, automation, and practical network security.
 
 ---
 
-### 📬 Contact
+### 🛡️ Cybersecurity Labs & Tools
 
-- **Email:** proteger.c-gines@proton.me  
-- **LinkedIn:** [linkedin.com/in/christian-gines-cyberscurity](https://www.linkedin.com/in/christian-gines-cyberscurity)
+Ongoing documentation and experiments on:
 
-If you’re building in **security, cloud, or high-stakes tech**, I’m open to:
-- Cybersecurity / SOC roles (entry to mid)  
-- Technical / SaaS sales, SDR leadership, or Head of Sales (remote)  
-- Strategic projects where infrastructure, security, and revenue intersect.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Network defense & incident response  
+- Linux security (Kali & offensive tooling)  
+- Python automation for reconnaissance  
+- Device profiling & OSINT  
+- Red team methodology & OPSEC discipline  
+
+---
+
+## 📊 Tech & Tools I Work With
+
+**Security & Offensive Tooling:**  
+Kali Linux · Nmap · Wazuh · Wireshark · MITRE ATT&CK · Burp Suite · OSINT frameworks
+
+**AI & Automation:**  
+GPT Agents · Python · Multi-Agent Systems · LangChain · Data Pipelines
+
+**Cloud & Infrastructure:**  
+GCP · Azure · Linux Systems · Network Architecture
+
+**Sales & Revenue Leadership:**  
+CRM mastery · Multi-channel prospecting · Cold outreach optimization · Deal acceleration  
+(U.S. B2B + BPO + enterprise accounts)
+
+---
+
+## 🧩 Current Repositories (in progress)
+
+### **🔐 arria-intelligence-agent**
+Architectural framework + early modules for the ARRIA system.
+
+### **🌌 azcendria-astral**
+Talent-engineering automation, workforce intelligence systems, and AI training pipelines.
+
+### **🛡️ cysec-labs**
+Personal cybersecurity labs and network defense experiments.
+
+### **📈 sales-systems-engineering**
+My full sales playbooks, BDR training systems, and pipeline models.
+
+---
+
+## 📫 Contact
+
+**LinkedIn:** https://linkedin.com/in/christian-gines-cysec  
+**Email:** proteger.c-gines@proton.me  
+**Website:** https://azcendria.com *(coming soon)*
+
+---
+
+<p align="center">“Think. Detect. Build. Defend.” — Azcendria Astral</p>
