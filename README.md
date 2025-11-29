@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="AzcendriaLOGO" src="https://github.com/user-attachments/assets/e0198449-7964-4e98-8145-37789b3642dc" />
 ![Azcendria Astral Banner](./AczendriaLOGO.png)
 
 <h1 align="center">Christian Gines</h1>
