@@ -1,111 +1,118 @@
-<div align="center">
-  <img src="azcendria.logo.png" alt="Azcendria Astral Logo" width="160">
-  
-  # **CHRISTIAN A. GINES**
-  ### Cybersecurity • Network Defense • AI Systems • Tech Sales Strategy  
-</div>
+![Azcendria Astral Logo](./AzcendriaLOGO.png)
+<h1 align="center">CHRISTIAN A. GINES</h1>
+<p align="center">Cybersecurity · Network Defense · AI Systems · Tech Sales Strategy</p>
+<p align="center">Cebu City, Philippines — Open to Remote (US / UK Time Zones)</p>
 
 ---
 
-# 🌐 **About Me**
+## 🌍 About Me
 
-Over two decades, I’ve built, led, and defended critical telecommunications infrastructure, directed high-performance teams, and delivered secure operations for national carriers and U.S. enterprise clients.  
+I build, secure, and scale real-world systems.
 
-Today, I merge that foundation with cybersecurity, threat-detection engineering, and advanced sales strategy — creating a hybrid skillset built for modern security-driven organizations.
+For 20+ years, I’ve led high-stakes operations — from telecom infrastructure deployments to revenue leadership for U.S. clients — and today, I merge that experience with **cybersecurity**, **network defense**, and **AI-driven intelligence systems**.
 
 I specialize in:
 
-- Cyber defense & network forensics  
-- AI-assisted reconnaissance (ARRIA)  
-- Red-team methodologies & adaptive threat analysis  
-- Enterprise-level negotiation & B2B sales strategy  
-- Technical evangelism for cybersecurity & cloud products  
-- High-intent closing using value-driven, assumptive frameworks  
+- **Cyber defense & network forensics**
+- **AI-assisted reconnaissance (ARRIA)**
+- **Red-team methodologies & adversarial thinking**
+- **Enterprise-level negotiation & B2B sales strategy**
+- **Technical evangelism for cybersecurity & cloud products**
+
+My goal is simple:
+
+> Turn complex technologies into systems that are secure, understandable, and easy for organizations to adopt.
 
 ---
 
-# 🛡️ **Azcendria Astral**  
-### *Global Workforce Accelerator • Digital Skills Engine • Talent Intelligence Platform*
+## 🚀 Azcendria Astral
 
-Azcendria Astral builds a secure, AI-augmented talent ecosystem that accelerates engineers, analysts, and technical professionals into global-standard careers.  
+**Global Workforce Accelerator · Digital Skills Engine · Talent Intelligence Platform**  
+**Tagline:** *Where Skills Speak Louder than Resumes*
+
+Azcendria Astral builds a secure, AI-augmented talent ecosystem that accelerates engineers, analysts, and technical professionals into global-standard careers.
 
 We unify training, intelligence frameworks, employer pipelines, and real-world execution into one integrated system.
 
-### **Chemo Safe Language (Official Positioning)**  
-Azcendria Astral develops proprietary automation frameworks, intelligence workflows, and educational architectures.  
-Our internal AI tools are **privately built operational models**, not external AI companies, founders, or third-party rights holders.  
-All systems, tools, and methods described are **independently developed internal assets** of Azcendria Astral.
+### Chemo Safe Language (Official Positioning)
+
+Azcendria Astral develops proprietary automation frameworks, intelligence workflows, and educational architectures.  
+Our internal AI tools (including “Kimo De Cinco”) are **branding and workflow concepts only** — built on top of licensed, third-party AI platforms.  
+
+- We do **not** imply ownership of, partnership with, or endorsement by any AI vendor (e.g., OpenAI, Anthropic, etc.).  
+- All prompts, playbooks, and methods are independently created internal assets of **Azcendria Astral**.  
+- Students, employers, and partners always remain in control of their own data, tools, and accounts.
 
 ---
 
-# 🤖 **ARRIA — Artificial Reconnaissance & Research Intelligence Agent**
+## 🤖 ARRIA — Artificial Reconnaissance & Research Intelligence Agent
 
 ARRIA is a private R&D initiative focused on:
 
-- AI-assisted reconnaissance  
-- Vulnerability analysis  
-- Network-risk detection  
-- Human-centric cyber-behavior mapping  
-- Personal defense and device-hardening workflows  
-- Modular intelligence pipelines for students & engineers  
+- AI-assisted reconnaissance and threat surface mapping  
+- Vulnerability analysis and network-risk detection  
+- Human-centric cyber-behavior analysis  
+- Personal defense and device-hardening workflows  
+- Modular intelligence pipelines for students & engineers  
 
-ARRIA’s design:  
-**Human first. AI-augmented. Security always.**
+ARRIA’s design:
 
----
-
-# 🧪 **CYSEC LABS**
-Hands-on experiments in:
-
-- Network monitoring & packet analysis  
-- Firewall hardening  
-- Linux security  
-- Wireless penetration testing  
-- Python-based automation for threat detection  
+> **Human first. AI-augmented. Security always.**
 
 ---
 
-# 📈 **Sales Systems Engineering**
+## 💼 Sales Systems Engineering
 
-My playbooks & systems for:
+I treat sales like an engineering discipline.
 
-- SDR & BDR pipeline acceleration  
-- Full assumptive closing  
-- Value-driven consultative sales  
-- Technical sales & cybersecurity SaaS  
-- Enterprise account strategy  
+My playbooks & systems cover:
+
+- SDR & BDR **pipeline acceleration**
+- **Full assumptive closing** with value-driven consultative sales
+- Technical sales for **cybersecurity SaaS** and infrastructure
+- Enterprise account strategy for **U.S. B2B + BPO + enterprise** clients
 - Multi-channel activation (email, CRM, social, voice)
 
-Blending **security understanding** with **sales psychology** is my competitive edge.
+Blending security understanding with sales psychology is my competitive edge.
 
 ---
 
-# 🧩 **Repositories (active development)**
+## 📂 Repositories (active development)
 
-### 🔐 **arria-intelligence-agent**  
-Early-stage architecture for the ARRIA framework.
+These repos are being built out in phases. Code, labs, and frameworks will roll out incrementally.
 
-### 🌌 **azcendria-astral**  
-Talent engine, skill-pipeline automation, intelligence workflows.
+### 🔐 `arria-intelligence-agent`
+Early-stage architecture and experiments for the **ARRIA** framework — AI-assisted reconnaissance, cyber-intelligence workflows, and defensive automation.
 
-### 🛡️ **cysec-labs**  
-Personal cybersecurity experiments and case studies.
+### 🌌 `azcendria-astral`
+Core models, data structures, and process automation for **Azcendria Astral** — a global workforce accelerator and talent-intelligence platform where *skills* matter more than resumes.
 
-### 📈 **sales-systems-engineering**  
-Technical sales, pipeline building, and negotiation frameworks.
+### 🛡️ `cysec-labs`
+Hands-on cybersecurity labs, packet captures, network-defense experiments, and incident-response drills used for training and self-development.
 
----
-
-# 📫 Contact
-
-**LinkedIn:** https://linkedin.com/in/christian-gines-cysec  
-**Email:** proteger.c-gines@proton.me  
-**Website:** https://azcendria.com *(coming soon)*  
+### 📈 `sales-systems-engineering`
+My playbooks, tools, and simulations for high-performance sales teams — B2B, BPO, and enterprise accounts — combining pipeline math with real-world objection handling.
 
 ---
 
-<div align="center">
-  <strong>“Think. Detect. Build. Defend.”</strong><br>
-  — Azcendria Astral
-</div>
-<img width="1536" height="1024" alt="file_00000000adcc7207a99f66406ac49a89" src="https://github.com/user-attachments/assets/aebfb7a5-2a6b-4165-a882-64274782ecaa" />
+## 🧰 Tech & Tools
+
+Some of the technologies I work with:
+
+- **Security:** Suricata, Zeek, Wireshark, Nmap, Burp Suite  
+- **Infra & OS:** Linux, pfSense, Docker, basic cloud (AWS / GCP)  
+- **Networking:** VLANs, VPNs, firewalls, routing, packet analysis  
+- **AI & Automation:** Python, API integrations, prompt-driven agents  
+- **Sales Stack:** CRM systems, outbound sequencing, analytics dashboards  
+
+---
+
+## 📫 Contact
+
+**LinkedIn:** https://linkedin.com/in/christian-gines-cysec  
+**Email:** proteger.c-gines@proton.me  
+**Website:** https://azcendria.com *(coming soon)*  
+
+---
+
+<p align="center"><i>Where Skills Speak Louder than Resumes — Azcendria Astral</i></p>
