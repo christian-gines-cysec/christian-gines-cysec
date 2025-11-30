@@ -1,113 +1,111 @@
-<img width="1536" height="1024" alt="AzcendriaLOGO" src="https://github.com/user-attachments/assets/e0198449-7964-4e98-8145-37789b3642dc" />
-![Azcendria Astral Banner](./AczendriaLOGO.png)
-
-<h1 align="center">Christian Gines</h1>
-<h3 align="center">Cybersecurity · AI Systems · Network Defense · Tech Sales Leadership</h3>
-<p align="center">Cebu City, Philippines — Open to Remote (US / UK Time Zones)</p>
-
----
-
-## 👋 About Me
-
-I build, secure, and scale real-world systems.
-
-For 20+ years, I’ve led high-stakes operations — from telecom infrastructure deployments to revenue leadership for U.S. clients — and today, I merge that experience with **cybersecurity**, **network defense**, and **AI-driven intelligence systems**.
-
-I combine:
-
-- **Security operations & incident response**  
-- **Network & infrastructure defense**  
-- **Red-team mindset with OPSEC discipline**  
-- **Tech sales & revenue leadership for U.S. markets**  
-- **AI automation for training, reconnaissance, and workforce acceleration**
-
-My goal is simple:  
-**Turn complex technologies into systems that are secure, understandable, and easy for organizations to adopt.**
+<div align="center">
+  <img src="azcendria.logo.png" alt="Azcendria Astral Logo" width="160">
+  
+  # **CHRISTIAN A. GINES**
+  ### Cybersecurity • Network Defense • AI Systems • Tech Sales Strategy  
+</div>
 
 ---
 
-## 🚀 What I’m Building
+# 🌐 **About Me**
 
-### 🔭 **Azcendria Astral — Talent Engineering & Cyber Workforce Lab**
+Over two decades, I’ve built, led, and defended critical telecommunications infrastructure, directed high-performance teams, and delivered secure operations for national carriers and U.S. enterprise clients.  
 
-Founder of **Azcendria Astral**, a hybrid R&D and talent-engineering initiative developing:
+Today, I merge that foundation with cybersecurity, threat-detection engineering, and advanced sales strategy — creating a hybrid skillset built for modern security-driven organizations.
 
-- 30–90 day “US-ready engineer” training tracks  
-- Structured hiring and employer pipelines  
-- AI systems to automate training, assessment, and reporting  
-- Workforce-intelligence dashboards for recruiters and technical teams  
+I specialize in:
 
-The mission:  
-**Accelerate skill acquisition. Industrialize workforce readiness. Empower learners globally.**
-
----
-
-### 🧠 **Project A.R.R.I.A — Artificial Reconnaissance & Research Intelligence Agent**
-
-A private R&D concept for a multi-agent AI security system specializing in:
-
-- Intelligent reconnaissance & asset discovery  
-- Hardware-level ID + device fingerprinting  
-- AI-assisted scanning, triage, and risk scoring  
-- OPSEC-guided workflows and adversarial playbooks  
-- Bluetooth-based bio-signal monitoring research for adaptive authentication  
-- Modular architecture for plug-in security capabilities  
-
-ARRIA is designed to evolve into a **personal cyber-defense companion**, bridging AI, automation, and practical network security.
+- Cyber defense & network forensics  
+- AI-assisted reconnaissance (ARRIA)  
+- Red-team methodologies & adaptive threat analysis  
+- Enterprise-level negotiation & B2B sales strategy  
+- Technical evangelism for cybersecurity & cloud products  
+- High-intent closing using value-driven, assumptive frameworks  
 
 ---
 
-### 🛡️ Cybersecurity Labs & Tools
+# 🛡️ **Azcendria Astral**  
+### *Global Workforce Accelerator • Digital Skills Engine • Talent Intelligence Platform*
 
-Ongoing documentation and experiments on:
+Azcendria Astral builds a secure, AI-augmented talent ecosystem that accelerates engineers, analysts, and technical professionals into global-standard careers.  
 
-- Network defense & incident response  
-- Linux security (Kali & offensive tooling)  
-- Python automation for reconnaissance  
-- Device profiling & OSINT  
-- Red team methodology & OPSEC discipline  
+We unify training, intelligence frameworks, employer pipelines, and real-world execution into one integrated system.
 
----
-
-## 📊 Tech & Tools I Work With
-
-**Security & Offensive Tooling:**  
-Kali Linux · Nmap · Wazuh · Wireshark · MITRE ATT&CK · Burp Suite · OSINT frameworks
-
-**AI & Automation:**  
-GPT Agents · Python · Multi-Agent Systems · LangChain · Data Pipelines
-
-**Cloud & Infrastructure:**  
-GCP · Azure · Linux Systems · Network Architecture
-
-**Sales & Revenue Leadership:**  
-CRM mastery · Multi-channel prospecting · Cold outreach optimization · Deal acceleration  
-(U.S. B2B + BPO + enterprise accounts)
+### **Chemo Safe Language (Official Positioning)**  
+Azcendria Astral develops proprietary automation frameworks, intelligence workflows, and educational architectures.  
+Our internal AI tools are **privately built operational models**, not external AI companies, founders, or third-party rights holders.  
+All systems, tools, and methods described are **independently developed internal assets** of Azcendria Astral.
 
 ---
 
-## 🧩 Current Repositories (in progress)
+# 🤖 **ARRIA — Artificial Reconnaissance & Research Intelligence Agent**
 
-### **🔐 arria-intelligence-agent**
-Architectural framework + early modules for the ARRIA system.
+ARRIA is a private R&D initiative focused on:
 
-### **🌌 azcendria-astral**
-Talent-engineering automation, workforce intelligence systems, and AI training pipelines.
+- AI-assisted reconnaissance  
+- Vulnerability analysis  
+- Network-risk detection  
+- Human-centric cyber-behavior mapping  
+- Personal defense and device-hardening workflows  
+- Modular intelligence pipelines for students & engineers  
 
-### **🛡️ cysec-labs**
-Personal cybersecurity labs and network defense experiments.
-
-### **📈 sales-systems-engineering**
-My full sales playbooks, BDR training systems, and pipeline models.
+ARRIA’s design:  
+**Human first. AI-augmented. Security always.**
 
 ---
 
-## 📫 Contact
+# 🧪 **CYSEC LABS**
+Hands-on experiments in:
+
+- Network monitoring & packet analysis  
+- Firewall hardening  
+- Linux security  
+- Wireless penetration testing  
+- Python-based automation for threat detection  
+
+---
+
+# 📈 **Sales Systems Engineering**
+
+My playbooks & systems for:
+
+- SDR & BDR pipeline acceleration  
+- Full assumptive closing  
+- Value-driven consultative sales  
+- Technical sales & cybersecurity SaaS  
+- Enterprise account strategy  
+- Multi-channel activation (email, CRM, social, voice)
+
+Blending **security understanding** with **sales psychology** is my competitive edge.
+
+---
+
+# 🧩 **Repositories (active development)**
+
+### 🔐 **arria-intelligence-agent**  
+Early-stage architecture for the ARRIA framework.
+
+### 🌌 **azcendria-astral**  
+Talent engine, skill-pipeline automation, intelligence workflows.
+
+### 🛡️ **cysec-labs**  
+Personal cybersecurity experiments and case studies.
+
+### 📈 **sales-systems-engineering**  
+Technical sales, pipeline building, and negotiation frameworks.
+
+---
+
+# 📫 Contact
 
 **LinkedIn:** https://linkedin.com/in/christian-gines-cysec  
 **Email:** proteger.c-gines@proton.me  
-**Website:** https://azcendria.com *(coming soon)*
+**Website:** https://azcendria.com *(coming soon)*  
 
 ---
 
-<p align="center">“Think. Detect. Build. Defend.” — Azcendria Astral</p>
+<div align="center">
+  <strong>“Think. Detect. Build. Defend.”</strong><br>
+  — Azcendria Astral
+</div>
+<img width="1536" height="1024" alt="file_00000000adcc7207a99f66406ac49a89" src="https://github.com/user-attachments/assets/aebfb7a5-2a6b-4165-a882-64274782ecaa" />
